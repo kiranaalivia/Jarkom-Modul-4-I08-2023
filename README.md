@@ -25,5 +25,6 @@ The following is the outcome of subdividing the larger subnet into smaller netwo
 
 # VLSM IP Allocation 
 Here are the results of the IP address allocation we obtained from the subnetting process, breaking down the network into smaller subnets.
+
 <img src="./img/5.png">
 
