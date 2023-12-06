@@ -9,6 +9,7 @@ Kirana Alivia Enrico | 5025211190
 <img src="./img/1.png">
 
 # GNS CIDR Topology
+<img src="./img/6.png">
 
 # Prefix IP
 Our group has the prefix IP of `192.232`
